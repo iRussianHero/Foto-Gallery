@@ -1,5 +1,6 @@
 .field {
   width: auto;
+  background-color: antiquewhite;
   border: 2px;
   border-style: solid;
   border-color: lightgray;
@@ -18,7 +19,6 @@
   border: 2px;
   border-style: solid;
   border-color: lightgray;
-  border-radius: 2px;
 }
 
 #chooseFoto {
@@ -29,7 +29,7 @@
   border: 2px;
   border-style: solid;
   border-color: lightgray;
-  border-radius: 2px;
+  padding: 3px;
 }
 
 #navBar {
@@ -41,5 +41,5 @@
   border: px;
   border-style: solid;
   border-color: lightgray;
-  border-radius: 2px;
+  padding: 5px;
 }/*# sourceMappingURL=style.css.map */
